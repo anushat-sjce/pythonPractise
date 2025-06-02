@@ -52,3 +52,17 @@ for value in student:
 
 for value in student:
   print(student[value])
+
+***************************************************************************************************************************88
+for k, v in student.items():
+  print(k, v) 
+
+if "Name" in student:
+  print("True")
+else:
+  print("false")
+
+
+for k in student:
+  if k == "age":
+    print(student[k])
