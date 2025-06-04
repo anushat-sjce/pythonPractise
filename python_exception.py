@@ -190,3 +190,26 @@ print(set2.difference(set1))
 
 tuple1 = (1,2,3,1,2,3)
 set(tuple1)
+
+
+*******************************************************************************************
+import math
+print(math.sqrt(256))
+print(math.pi)
+print(math.pow(2,4))
+
+import math as m 
+print(m.factorial(4))
+
+import random
+print(random.random())
+
+print(random.randint(100000, 999999))
+
+list1 = ["a", "b", "c", "d"]
+random.shuffle(list1)
+print(list1)
+
+random.sample(list1, 3)
+
+
