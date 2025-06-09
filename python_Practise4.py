@@ -31,3 +31,28 @@ plt.ylabel("Marks scored")
 plt.title("Students data of hours spent vs marks scored")
 plt.legend()
 plt.show()
+
+
+#**Data science**
+#Numpy, Pandas, Matplotlib
+#Sklearn, Pytorch - deep learning, Tensor flow.
+
+#Web developer
+#Flask - build websites.
+#streamlit - dashboard.
+#Full stack developer Django
+
+#Web scraping / Web crawling
+#automation, Selenium, BeautifulSoup, Scrapy
+
+#Computer Vision / Image processing
+#OpenCV, image, video processing, 
+#Pillow, MoviePy
+#Ultralytics
+
+#API..
+#Requests, Flask, FastAPI 
+
+
+
+
